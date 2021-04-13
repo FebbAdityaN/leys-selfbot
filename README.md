@@ -40,7 +40,7 @@
 
 
 ## SOSIAL MEDIA ADMIN
-
+* [`WhatsApp Admin `](https://wa.me/6285770269605)
 * [`WhatsApp Admin `](https://wa.me/6285959375675)
 ## SPECIAL THANKS TO
 * [`MHANKBARBAR`](https://github.com/MhankBarBar/termux-wabot)
