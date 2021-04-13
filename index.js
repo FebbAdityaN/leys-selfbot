@@ -29,7 +29,7 @@ const loli = new lolis()
 const welkom = JSON.parse(fs.readFileSync('./src/welkom.json'))
 const nsfw = JSON.parse(fs.readFileSync('./src/nsfw.json'))
 const samih = JSON.parse(fs.readFileSync('./src/simi.json'))
-const setting = JSON.parse(fs.readFileSync('./settings.json'))
+const setting = JSON.parse(fs.readFileSync('./src/settings.json'))
 prefix = setting.prefix
 blocked = []
 
@@ -241,7 +241,7 @@ client.connect();
 
 • Lib: Baileys
 • Prefix: 「 ${prefix} 」
-• Recode: client
+• Recode: Febb
 • ${week} ${weton}, ${date}
 
 ╭── -> STICKER
