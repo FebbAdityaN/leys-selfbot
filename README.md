@@ -33,6 +33,8 @@
 > scan qr
 
 ```
+### Setting ApiKey & Owner Number & Prefix
+* [`Setting`](https://github.com/1NS0MNIA/leys-selfbot/blob/main/src/settings.json)
 ## KLO MAU PAKAI JANGAN LUPA DI FORK YA NGAB
 
 # DONASI
