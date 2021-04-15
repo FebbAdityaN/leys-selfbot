@@ -25,6 +25,7 @@ Script ini merupakan program WhatsApp Bot
 yang menggunakan engine nodejs v14.x.x
 dengan Lib [`Baileys`](https://github.com/adiwajshing/baileys)
 dan menggunakan base dari [`MhankBarBar`](https://github.com/mhankbarbar/termux-wabot)
+Script ini error? silahkan buat [`Issues`](https://github.com/1NS0MNIA/leys-selfbot/issues/new)
 
 
 ### Tutorial Install
