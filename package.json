@@ -36,10 +36,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HAFizh-15/leyscoders-api.git"
+    "url": "git+https://github.com/1NS0MNIA/leys-selfbot.git"
   },
   "bugs": {
-    "url": "https://github.com/HAFizh-15/leyscoders-api/issues"
+    "url": "https://github.com/1NS0MNIA/leys-selfbot/issues"
   },
-  "homepage": "https://github.com/HAFizh-15/leyscoders-api#readme"
+  "homepage": "https://github.com/1NS0MNIA/leys-selfbot#readme"
 }
