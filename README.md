@@ -34,8 +34,8 @@ Jika script error silahkan buat [`Issues`](https://github.com/1NS0MNIA/leys-self
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git
-$ git clone https://github.com/Zobin33/Zbin-Wabot
-$ cd Zbin-Wabot
+$ git clone https://github.com/1NS0MNIA/leys-selfbot
+$ cd leys-selfbot
 $ bash install.sh
 
 Scan QR
@@ -44,8 +44,8 @@ Scan QR
 ```cmd
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/Zobin33/Zbin-Wabot
-$ cd Zbin-Wabot
+$ git clone https://github.com/1NS0MNIA/leys-selfbot
+$ cd leys-selfbot
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
 ```
