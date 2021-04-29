@@ -429,7 +429,8 @@ _Powered by nodejs 14.x.x_`
 				case 'base32-dec':
 					anu = await fetchJson(`https://leyscoders-api.herokuapp.com/api/base32/decode?q=${q}&apikey=${apiKey}`)
 					teks = `${anu.result.decode}`
-					client.sendMessage(from, teks, text, {quoted: mek}),
+					client.sendMessage(from, teks, text, {quoted: mek})
+					break
 				case 'cek-ip':
 					anu = await fetchJson(`https://leyscoders-api.herokuapp.com/api/cekip?ip=${q}&apikey=${apiKey}`)
 					v = anu.result
