@@ -41,7 +41,7 @@ $ bash install.sh
 Scan QR
 ```
 ## Manual Install (Termux)
-```cmd
+```CMD
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
 $ git clone https://github.com/1NS0MNIA/leys-selfbot
