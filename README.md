@@ -29,14 +29,39 @@ Jika script error silahkan buat [`Issues`](https://github.com/1NS0MNIA/leys-self
 
 
 ### Tutorial Install
-```bash
+
+## Termux
+```cmd
+$ pkg update && pkg upgrade
+$ pkg i git
+$ git clone https://github.com/Zobin33/Zbin-Wabot
+$ cd Zbin-Wabot
+$ bash install.sh
+
+Scan QR
+```
+## Manual Install (Termux)
+```cmd
+$ pkg update && pkg upgrade
+$ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
+$ git clone https://github.com/Zobin33/Zbin-Wabot
+$ cd Zbin-Wabot
+$ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
+$ npm i -g
+```
+
+## Windows
+* [`Download ffmpeg`](https://ffmpeg.org/download.html#build-windows) and set path
+* [`Download wget`](https://eternallybored.org/misc/wget/releases/) and set path
+* [`Download Node JS`](https://nodejs.org/en/download/)
+* [`Download Git`](https://git-scm.com/downloads)
+```cmd
 > git clone https://github.com/1NS0MNIA/leys-selfbot/
 > cd leys-selfbot
-> bash install.sh
+> npm i
 > node index.js
-> scan qr
-
 ```
+
 ### Setting Prefix & Owner Number & ApiKey
 * [`Setting`](https://github.com/1NS0MNIA/leys-selfbot/blob/main/src/settings.json)
 ### DONASI
