@@ -72,7 +72,7 @@ $ npm i -g
 * <a href="https://wa.me/6285770269605"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Admin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 * <a href="https://wa.me/6285959375675"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Admin-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ## SPECIAL THANKS TO
-* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/MhankBarBar/termux-wabot"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/HAFizh-15/leyscoders-api"><img alt="GitHub" src="https://img.shields.io/badge/Hafizh V-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
