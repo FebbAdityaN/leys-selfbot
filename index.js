@@ -250,6 +250,7 @@ client.on('qr', () => {
 │• ${prefix}sticker
 │• ${prefix}toimg
 │• ${prefix}togif
+│• ${prefix}semoji *emoji*
 ╰───
 
 ╭── -> DOWNLOADER
@@ -382,6 +383,16 @@ client.on('qr', () => {
 
 _Powered by nodejs 14.x.x_`
 					client.sendMessage(from, teks, text, {quoted: mek})
+					break
+				case 'semoji':
+					anu = await fetchJson(`https://leyscoders-api.herokuapp.com/api/emoji-pngv2?emoji=${encodeURIComponent(q)}&apikey=${apiKey}`)
+					res = await getBuffer(anu.result.apple) /** Versi Emoji bukan hanya Apple tapi masih banyak, silahkan cek menggunakan link diatas */
+					ranp = getRandom('.png')
+					rano = getRandom('.webp')
+					exec(`wget ${res} -O ${ranp} && ffmpeg -i ${ranp} -vcodec libwebp -filter:v fps=fps=20 -lossless 1 -loop 0 -preset default -an -vsync 0 -s 512:512 ${rano}`, (err) => {
+						fs.unlinkSync(ranp)
+						client.sendMessage(from, fs.readFileSync(rano), sticker, { quoted: mek })
+					})
 					break
 				case 'igfoto':
 				case 'igphoto':
