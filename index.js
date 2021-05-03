@@ -402,7 +402,7 @@ _Powered by nodejs 14.x.x_`
 					teks = `</ *Result Found!* >\n\n• Judul: ${anu.result.judul}\n• TrackFormat: ${anu.result.track_format}\n• Like: ${convertToString(anu.result.like)}\n• Urn: ${anu.result.urn}\n\n_Mohon tunggu, audio sedang dikirim!_`
 					buff = await getBuffer(anu.result.audio)
 					reply(teks)
-					client.sendMessage(from, buff, audio, {mimetype: 'audio/mp4', filename: `${sender}.mp3`, {quoted: mek})
+					client.sendMessage(from, buff, audio, {mimetype: 'audio/mp4', filename: `${sender}.mp3`, quoted: mek})
 					break
 				case 'semoji':
 					var imgbb = require('imgbb-uploader')
