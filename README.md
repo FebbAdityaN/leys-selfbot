@@ -7,15 +7,15 @@
 
 
 <p align="center">
-<a href="https://github.com/1NS0MNIA"><img title="Author" src="https://img.shields.io/badge/LEYSCODERS-SELFBOT-green)"></a>
+<a href="https://github.com/FebbAdityaN"><img title="Author" src="https://img.shields.io/badge/LEYSCODERS-SELFBOT-green)"></a>
 </p>
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/1NS0MNIA?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=Follow&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=STARS&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/network/members"><img title="Forks" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=FORKS&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/watchers"><img title="Watching" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=WACHING&style=sociale"></a>
+<a href="https://github.com/FebbAdityaN?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=Follow&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=STARS&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/network/members"><img title="Forks" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=FORKS&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/watchers"><img title="Watching" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=WACHING&style=sociale"></a>
 </p>
 
 # WhatsApp Bot
@@ -74,5 +74,5 @@ $ npm i -g
 ## SPECIAL THANKS TO
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/MhankBarBar/termux-wabot"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/HAFizh-15"><img alt="GitHub" src="https://img.shields.io/badge/Hafizh V-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/X-KERING"><img alt="GitHub" src="https://img.shields.io/badge/Hafizh V-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
