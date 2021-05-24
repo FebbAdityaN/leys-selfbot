@@ -7,15 +7,15 @@
 
 
 <p align="center">
-<a href="https://github.com/1NS0MNIA"><img title="Author" src="https://img.shields.io/badge/LEYSCODERS-SELFBOT-green)"></a>
+<a href="https://github.com/FebbAdityaN"><img title="Author" src="https://img.shields.io/badge/LEYSCODERS-SELFBOT-green)"></a>
 </p>
 <p align="center">
 </p>
 <p align="center">
-<a href="https://github.com/1NS0MNIA?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=Follow&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=STARS&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/network/members"><img title="Forks" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=FORKS&style=social"></a>
-<a href="https://github.com/1NS0MNIA/leys-selfbot/watchers"><img title="Watching" src="https://img.shields.io/github/followers/1NS0MNIA?color=green&label=WACHING&style=sociale"></a>
+<a href="https://github.com/FebbAdityaN?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=Follow&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/stargazers/"><img title="Stars" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=STARS&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/network/members"><img title="Forks" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=FORKS&style=social"></a>
+<a href="https://github.com/FebbAdityaN/leys-selfbot/watchers"><img title="Watching" src="https://img.shields.io/github/followers/FebbAdityaN?color=green&label=WACHING&style=sociale"></a>
 </p>
 
 # WhatsApp Bot
@@ -25,7 +25,7 @@ Script ini merupakan program WhatsApp Bot
 yang menggunakan engine nodejs v14.x.x
 dengan Lib [`Baileys`](https://github.com/adiwajshing/baileys)
 dan menggunakan base dari [`MhankBarBar`](https://github.com/mhankbarbar/termux-wabot),
-Jika script error silahkan buat [`Issues`](https://github.com/1NS0MNIA/leys-selfbot/issues/new)
+Jika script error silahkan buat [`Issues`](https://github.com/FebbAdityaN/leys-selfbot/issues/new)
 
 
 ### Tutorial Install
@@ -44,7 +44,7 @@ Scan QR
 ```CMD
 $ pkg update && pkg upgrade
 $ pkg i git nodejs libwebp ffmpeg wget tesseract toilet
-$ git clone https://github.com/1NS0MNIA/leys-selfbot
+$ git clone https://github.com/FebbAdityaN/leys-selfbot
 $ cd leys-selfbot
 $ wget -O ~/../usr/share/tessdata/ind.traineddata "https://github.com/tesseract-ocr/tessdata/blob/master/ind.traineddata?raw=true"
 $ npm i -g
@@ -63,7 +63,7 @@ $ npm i -g
 ```
 
 ### Setting Prefix & Owner Number & ApiKey
-* [`Setting`](https://github.com/1NS0MNIA/leys-selfbot/blob/main/src/settings.json)
+* [`Setting`](https://github.com/FebbAdityaN/leys-selfbot/blob/main/src/settings.json)
 ### DONASI
 * [`TrakTeer`](https://trakteer.id/chizuru)
 
