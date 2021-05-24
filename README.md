@@ -74,5 +74,5 @@ $ npm i -g
 ## SPECIAL THANKS TO
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 * <a href="https://github.com/MhankBarBar/termux-wabot"><img alt="GitHub" src="https://img.shields.io/badge/MhankBarBar-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-* <a href="https://github.com/HAFizh-15"><img alt="GitHub" src="https://img.shields.io/badge/Hafizh V-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
+* <a href="https://github.com/X-KERING"><img alt="GitHub" src="https://img.shields.io/badge/Hafizh V-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
 
